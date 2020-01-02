@@ -1,4 +1,4 @@
-[![Build Status](https://getstartedwith.visualstudio.com/azure-devops/_apis/build/status/jialge.mslearn-tailspin-spacegame-web?branchName=master)](https://getstartedwith.visualstudio.com/azure-devops/_build/latest?definitionId=1&branchName=master)
+![Build Status](https://getstartedwith.visualstudio.com/azure-devops/_apis/build/status/jialge.mslearn-tailspin-spacegame-web?branchName=master)
 
 # Contributing
 
